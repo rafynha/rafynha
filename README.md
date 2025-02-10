@@ -1,9 +1,8 @@
-## Hi there 👋
-
 <p align="center">
   <img src="https://github.com/rafynha/rafynha/blob/main/github-header-image.png"/>
 </p>
 
+## Hi there 👋
 
 <!-- ### Hi there 👋
 * 👂 My name is ...
