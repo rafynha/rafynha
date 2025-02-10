@@ -1,8 +1,33 @@
-<p align="center">
-  <img src="https://github.com/rafynha/rafynha/blob/main/github-header-image.png"/>
-</p>
+<div>
+  <p align="center">
+    <img src="https://github.com/rafynha/rafynha/blob/main/github-header-image.png"/>
+  </p>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/rafael-renault-andrade-0271935b">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/website-CCCCCC?style=for-the-badge&logo=About.me&logoColor=black"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    </a>
+    <a href="https://github.com/rafynha">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
+    </a>
+  </div>
+</div>
 
-## Hi there 👋
+
 
 <!-- ### Hi there 👋
 * 👂 My name is ...
